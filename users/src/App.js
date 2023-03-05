@@ -7,7 +7,7 @@ import EditUser from './EditUser';
 function App() {
   return (
     <div className="App">
-      <h2>CRUD Operation Using React Test Project</h2>
+      <h2>CRUD Operation Using React And Json-Server</h2>
       <BrowserRouter>
       <Routes>
         <Route path='/' element={<UserList/>}> </Route>
