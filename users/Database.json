@@ -1,0 +1,36 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "first_name": "Nuru",
+      "last_name": "Ahmed",
+      "age": "21",
+      "Gender": "Male",
+      "height": "1.92"
+    },
+    {
+      "first_name": "Hana",
+      "last_name": "Abebe",
+      "age": "32",
+      "Gender": "Female",
+      "height": "1.88",
+      "id": 2
+    },
+    {
+      "first_name": "Adam",
+      "last_name": "Asefa",
+      "age": "25",
+      "Gender": "Male",
+      "height": "1.99",
+      "id": 3
+    },
+    {
+      "first_name": "Ahmed",
+      "last_name": "Ali",
+      "age": "23",
+      "Gender": "Male",
+      "height": "1.87",
+      "id": 4
+    }
+  ]
+}
