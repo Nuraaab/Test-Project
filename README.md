@@ -13,7 +13,7 @@
 # npm install --save @emotion/styled
 # npm install --save-dev @emotion/babel-plugin
 # TO INSTALL REDUX
-# npm install @reduxjs/toolkit  OR IF WE NEED REACT BINDING  npm install react-redux
+# npm install react-redux
 # TO INSTALL REDUX-SEGA
 # npm install redux-saga
 # TYO INSTALL REACT-AXIOS
